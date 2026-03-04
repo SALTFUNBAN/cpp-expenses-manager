@@ -20,17 +20,17 @@ Konsolenanwendung zur Verwaltung monatlicher Ausgaben.
 
 ## Build
 
-mkdir build
-cd build
-cmake ..
-cmake --build .
+- mkdir build
+- cd build
+- cmake ..
+- cmake --build .
 
 ## Dateiformat
 
-id|title|category|date|price|amount
+- id|title|category|date|price|amount
 
 ## Weiterentwicklung (geplant)
 
-Statistiken pro Kategorie
-Validierung des Datumsformats
-Verbesserte Benutzeroberfläche
+- Statistiken pro Kategorie
+- Validierung des Datumsformats
+- Verbesserte Benutzeroberfläche
