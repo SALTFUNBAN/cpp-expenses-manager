@@ -20,7 +20,6 @@ Konsolenanwendung zur Verwaltung monatlicher Ausgaben.
 
 ## Build
 
-```bash
 mkdir build
 cd build
 cmake ..
